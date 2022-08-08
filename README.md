@@ -1,4 +1,5 @@
 # FontKruger
+Registro del inventario del estado de vacunación de los empleados -FRONTEND
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
